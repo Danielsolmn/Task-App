@@ -22,7 +22,8 @@ The following **additional** features are implemented:
 
 - [x ] Tasks can be toggled completed
 - [ x] User can edit tasks by tapping on the task in the feed view
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ x] List anything else that you can get done to improve the app functionality!
+-[  x ] Add haptics (vibration) when a task is completed.
 
 ## Video Walkthrough
 
